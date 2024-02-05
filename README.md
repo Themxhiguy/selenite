@@ -3,6 +3,8 @@ This is **not** "Selenite is shutting down". GitHub took down the Selenite repos
 
 We have mirrors of the Selenite repository available by clicking the following images.
 <center>
-[![Codeberg](https://www.pngrepo.com/png/349319/512/codeberg.png "Codeberg")](https://codeberg.org/skysthelimitt/selenite)
-[![GitLab](https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png "GitLab")](https://gitlab.com/skysthelimit.dev/selenite).
+<a href="https://codeberg.org/skysthelimitt/selenite">
+<img src="https://www.pngrepo.com/png/349319/512/codeberg.png" width="140" height="140"></img></a>
+<a href="https://gitlab.com/skysthelimit.dev/selenite">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" width="140" height="140"></img></a>
 </center>
